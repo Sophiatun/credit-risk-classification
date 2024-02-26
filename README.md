@@ -10,15 +10,15 @@ To address the class imbalance in the training data, the RandomOverSampler modul
 
 # Machine Learning Model 1:
 
-Model 1 Accuracy: 0.952.
-Model 1 Precision: for healthy loans the precision is 1.00, for high-risk loans the precision is 0.84.
-Model 1 Recall: for healthy loans the recall score is 0.99, for high-risk loans the recall score is 0.94.
+- Model 1 Accuracy: 0.952.
+- Model 1 Precision: for healthy loans the precision is 1.00, for high-risk loans the precision is 0.84.
+- Model 1 Recall: for healthy loans the recall score is 0.99, for high-risk loans the recall score is 0.94.
 
 # Machine Learning Model 2:
 
-Model 2 Accuracy: 0.995.
-Model 2 Precision: for healthy loans the precision is 0.99, for high-risk loans the precision is 0.99.
-Model 2 Recall: for healthy loans the recall score is 0.99, for high-risk loans the recall score is 0.99.
+- Model 2 Accuracy: 0.995.
+- Model 2 Precision: for healthy loans the precision is 0.99, for high-risk loans the precision is 0.99.
+- Model 2 Recall: for healthy loans the recall score is 0.99, for high-risk loans the recall score is 0.99.
 
 # Summary
 
